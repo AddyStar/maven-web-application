@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>foundation-new</finalName>
+		<finalName>foundation-pipe</finalName>
 		
 		<plugins>
 			<plugin>
